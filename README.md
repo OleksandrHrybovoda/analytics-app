@@ -2,7 +2,7 @@
 
 ## Installation/Run Instruction
 
-It is built with **React**, **TypeScript**, and **Vite**. There is a drag-and-drop interface for uploading CSV files and for data visualization is used **D3.js**.
+It is built with **React**, **TypeScript**, and **Vite**. There is a drag-and-drop interface for uploading CSV files and for data visualization is used **Echarts**.
 
 ## Prerequisites
 
