@@ -1,0 +1,17 @@
+.reset-button {
+  display: block;
+  margin: 16px auto;
+  padding: 4px;
+  background-color: #fff;
+  border: 1px solid #c4c4c4;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Inter';
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.reset-button:hover {
+  background-color: #b9b9b9;
+}
