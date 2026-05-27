@@ -16,9 +16,7 @@ It is built with **React**, **TypeScript**, and **Vite**. There is a drag-and-dr
 
 **2. Configure Environment Variables:**
 Create a `.env` file in the root directory and specify the backend API URL. 
-\`\`\`env
-VITE_API_URL=http://localhost:8000
-\`\`\`
+`VITE_API_URL=http://localhost:8000`
 
 ## Running the Application
 
