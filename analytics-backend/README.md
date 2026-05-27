@@ -16,9 +16,7 @@
   `source venv/bin/activate`
 
 **3. Install dependencies:**
-`pip install fastapi uvicorn pandas python-multipart`
-
-*(Note: If you generate a `requirements.txt` later, run `pip install -r requirements.txt` instead).*
+`pip install fastapi uvicorn pandas`
 
 ## Running the Server
 
